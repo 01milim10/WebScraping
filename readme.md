@@ -8,9 +8,9 @@ This is a prototype project on how you can successfully scrape web pages using N
 
 ## Features
 
-- Function scrape will list all the available web pages and save it under filename names.txt under root folder
+- Function scrape() will list all the available web pages and save it under filename names.txt under root folder
 - Colleges.txt will hold the links that you want to scrape college data from
-- Function scrapeColleges will extract links from colleges.txt and scrape data of individual college and saves in CollegeData.csv file
+- Function scrapeColleges() will extract links from colleges.txt and scrape data of individual college and saves in CollegeData.csv file
 
 ## Installation
 
