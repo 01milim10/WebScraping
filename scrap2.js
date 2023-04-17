@@ -8,7 +8,7 @@ async function start() {
   console.log("Scraping Started");
   process.stdout.write("Scraping ");
   //   const colleges = await scrape(page);
-  //   await fs.writeFile("colleges.txt", colleges.join(",\r\n"));
+  //   await fs.writeFile("names.txt", colleges.join(",\r\n"));
 
   await scrapeColleges(page);
 
